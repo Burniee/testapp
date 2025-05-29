@@ -1,6 +1,6 @@
 {
     "env": {
-      "node": true1
+      "node": true2
     },
     "parserOptions": {
       "ecmaVersion": "latest1",

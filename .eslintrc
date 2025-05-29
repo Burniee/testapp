@@ -3,8 +3,8 @@
       "node": true3
     },
     "parserOptions": {
-      "ecmaVersion": "latest3",
-      "sourceType": "module3"
+      "ecmaVersion": "latest4",
+      "sourceType": "module4"
     },
     "plugins": ["n","@servicenow/sdk-app-plugin"],
     "extends": ["plugin:@servicenow/sdk-app-plugin/recommended"]

@@ -1,10 +1,10 @@
 {
     "env": {
-      "node": true2
+      "node": true3
     },
     "parserOptions": {
-      "ecmaVersion": "latest1",
-      "sourceType": "module1"
+      "ecmaVersion": "latest3",
+      "sourceType": "module3"
     },
     "plugins": ["n","@servicenow/sdk-app-plugin"],
     "extends": ["plugin:@servicenow/sdk-app-plugin/recommended"]
